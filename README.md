@@ -26,6 +26,7 @@ To get started, simply click the download button above to retrieve the `TimenSet
 1. **Download:** Click the button above to download the `TimenSetup.zip` file.
 2. **Extract:** Right‑click the downloaded file and select **Extract All...** to unzip it into a folder of your choice.
 3. **Run Installer:** Open the extracted folder and double‑click on **TimenSetup.exe** to start the installation process.
+   - **Security Prompt:** When you open the exe, a blue security window may pop up. In this window, click the underlined **Expand** text, and then choose **Run file anyway** if prompted.
 4. **Customize:** Follow the on‑screen instructions to personalize Timen and enjoy a smarter computing experience.
 
 ---
