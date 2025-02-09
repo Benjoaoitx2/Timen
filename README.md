@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/6769d64659dabfc4f5f4c3f9/67a8ab8cb0a89c6f48ea1625_image-p-500.png" alt="Timen Logo" />
+  <img src="https://cdn.prod.website-files.com/6769d64659dabfc4f5f4c3f9/67a8ab8cb0a89c6f48ea1625_image-p-500.png" alt="Timen Logo" width="150" />
 </p>
 
 <h1 align="center">Timen AI Demo</h1>
@@ -16,7 +16,7 @@ Welcome to **Timen** – a revolutionary AI assistant that adapts to your unique
 ## Download & Installation
 
 <p align="center">
-  <a href="TimenSetup.zip" style="background-color: #007aff; color: #ffffff; padding: 15px 25px; font-size: 18px; text-decoration: none; border-radius: 8px;">Download TimenSetup.zip</a>
+  <a href="TimenSetup.zip" download style="background-color: #007aff; color: #ffffff; padding: 15px 25px; font-size: 18px; text-decoration: none; border-radius: 8px;">Download TimenSetup.zip</a>
 </p>
 
 To get started, simply click the download button above to retrieve the `TimenSetup.zip` file.
