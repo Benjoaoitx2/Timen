@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/300x100?text=Timen" alt="Timen Logo" />
+  <img src="[https://via.placeholder.com/300x100?text=Timen](https://cdn.prod.website-files.com/6769d64659dabfc4f5f4c3f9/67a8ab8cb0a89c6f48ea1625_image-p-500.png)" alt="Timen Logo" />
 </p>
 
 <h1 align="center">Timen AI Demo</h1>
